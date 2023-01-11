@@ -21,7 +21,7 @@
     "eslint": "^6.8.0",
     "express": "^4.17.1",
     "jest": "^25.1.0",
-    "knex": "^0.20.10",
+    "knex": "^2.4.0",
     "nodemon": "^2.0.2",
     "parser": "^0.1.4",
     "swagger-ui-express": "^4.1.3"
